@@ -18,7 +18,7 @@ conda activate gitgan
 ## Data Acquisition & Setup
 
 1. **Download Datasets:**  
-Fetch the required datasets from [this link](https://works.do/5MZGWeN).
+Fetch the required datasets from [this link](https://works.do/IDNSXyq).
 
 2. **Place in Code Directory:**  
 After downloading, ensure the datasets are placed directly within the `GITGAN` code directory.
@@ -40,3 +40,6 @@ Replace `NUM_GPUs` with the number of GPUs you wish to use.
 ```bash
 python main.py --config_file configs/DATASET2RUN.yaml
 ```
+
+## Contact Us
+E-mail: charles_kang@korea.ac.kr
